@@ -40,7 +40,7 @@ It allows users to add, mark, and delete tasks with a clean student-authentic de
 - Visual Studio Code
 
 ### Screenshot
-![To-Do List Screenshot](godo-ui.png)
+![To-Do List Screenshot](https://github.com/Gopika010807/CODSOFT/blob/main/godo-ui.png.png)
 
 ### Author
 **Gopika**
