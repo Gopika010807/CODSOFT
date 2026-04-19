@@ -70,11 +70,7 @@ It helps users generate strong, secure, and customizable passwords with an inter
 - Visual Studio Code (VS Code)  
 
 ### Screenshot
-![Password Generator UI](images/password_generator.png)
-
-
-
-
+![Password Generator UI](https://github.com/Gopika010807/CODSOFT/blob/main/password%20generator%20ui.png)
 
 #### Author  
 **Gopika**
