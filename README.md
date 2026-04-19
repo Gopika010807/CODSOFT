@@ -44,6 +44,42 @@ It allows users to add, mark, and delete tasks with a clean student-authentic de
 
 ### Author
 **Gopika**
+### Task 3 – G's Password Generator
+
+G's Password Generator is a modern, user-friendly desktop application built using Python and Tkinter.  
+It helps users generate strong, secure, and customizable passwords with an interactive graphical interface and real-time feedback.
+
+#### Features
+- Generate strong and random passwords  
+- Customizable password length  
+- Options to include:
+  - Uppercase letters (A–Z)  
+  - Lowercase letters (a–z)  
+  - Numbers (0–9)  
+  - Symbols (!@# etc.)    
+- Copy password to clipboard with one click  
+- Error handling for invalid inputs  
+- Smooth and modern dark-themed UI  
+
+#### Technologies Used
+- Python 3  
+- Tkinter (GUI)  
+- Random Module  
+- String Module  
+- ctypes (for screen scaling support)
+- Visual Studio Code (VS Code)  
+
+### Screenshot
+![Password Generator UI](images/password_generator.png)
+
+
+
+
+
+#### Author  
+**Gopika**
+
+
 
 
 
