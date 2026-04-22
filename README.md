@@ -3,16 +3,18 @@ This repository contains the tasks and projects completed as part of my CodSoft 
 
 ## Task 1 – G's To-Do List
 
-G's To-Do List is a cozy, brown-themed task manager built with Python and Tkinter.  
+G's To-Do List is a cozy, lavender-pink-themed task manager built with Python and Tkinter.  
 It allows users to add, mark, and delete tasks with a clean student-authentic design and personalized "G" branding.
 
 ### Features
-- Add new tasks
-- Mark tasks as completed (✔)
-- Delete tasks
-- Cozy brown notebook theme
-- Personalized "G" logo branding
-- Tasks saved locally using JSON
+- Add new tasks  
+- Toggle tasks as completed or pending  
+- Delete tasks easily  
+- Clear task status indicators (✔ for done, ☐ for pending)  
+- Organized under a “Daily to‑do list” header  
+- Minimal, beginner‑friendly interface with a neat lavender‑pink background and beige task area  
+- Interactive buttons for adding, toggling, and deleting.
+- Tasks are saved using json.
 
 ### Technologies Used
 - Python 3
