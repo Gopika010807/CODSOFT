@@ -18,7 +18,7 @@ It allows users to add, mark, and delete tasks with a clean student-authentic de
 - Python 3
 - Tkinter (GUI)
 - JSON (for saving tasks)
-- Visual Studio Code
+- Antigravity
 
 ### Screenshot
 ![To-Do List Screenshot](https://github.com/Gopika010807/CODSOFT/blob/main/to%20do%20list.png)
